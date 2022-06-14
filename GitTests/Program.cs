@@ -8,5 +8,10 @@ namespace GitTests
         {
             
         }
+
+        static void Display()
+        {
+
+        }
     }
 }
